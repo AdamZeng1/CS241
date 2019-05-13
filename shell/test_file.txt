@@ -1,5 +1,0 @@
-ls
-cd ..
-sleep 4 
-echo Finished!
-echo hello
